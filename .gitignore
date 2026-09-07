@@ -1,0 +1,7 @@
+tokens.env
+__pycache__/
+*.pyc
+*.db
+*.csv
+venv/
+.env
